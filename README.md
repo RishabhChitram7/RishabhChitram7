@@ -11,9 +11,9 @@
 ---
 
 ## ⚡ About Me  
-✨ 🎓 B.Tech CSE (AI & ML) Student at **MREC College**    
-✨ **Roles of Responsibility:**  
+✨ 🎓 B.Tech CSE (AI & ML) Student at **MREC College**
 
+✨ **Roles of Responsibility:**  
 - **Vice Captain** – College Football Team  
 - **Documentation Head** – Technical Excellence in AI & ML Club  
 - **Executive Committee** – Hyderabad Youth Assembly (Street Cause)
