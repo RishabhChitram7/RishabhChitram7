@@ -28,8 +28,8 @@
 
 ---
 
-## 📊 GitHub Stats
-<!--<p align="center">
+<!--## 📊 GitHub Stats
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=RishabhChitram7&show_icons=true&theme=tokyonight&hide_border=true&border_radius=20" height="160"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=RishabhChitram7&theme=tokyonight&hide_border=true&border_radius=20" height="160"/>
 </p>-->
